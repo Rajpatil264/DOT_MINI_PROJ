@@ -56,8 +56,4 @@ For inquiries, suggestions, or feedback, please don't hesitate to reach out to t
 Name: Rajvardhan Patil
 Email: raj2003patil@gmail.com 
 
-Your feedback and contributions are highly appreciated.
-
----
-
-Feel free to customize this README by replacing Rajvardhan Patil and raj2003patil@gmail.com  with your actual name and email address. This README should serve as a comprehensive guide for users and potential collaborators interested in your Stock Price Prediction project.
+Your feedback and contributions are highly Appreciated
